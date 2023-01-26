@@ -1,0 +1,28 @@
+body{
+    background-color: #d2d289;
+}
+h3{
+    color: darkslateblue;
+    font-family: Kalapi;
+    font-size: 30px;
+
+}
+li{
+    font-family: Loma;
+    font-family: 20px;
+    color: indigo;
+    padding: 10px;
+}
+a{
+    font-size: x-large;
+}
+h1{
+    font-family: Mukti;
+    font-size: 30px;
+    color: #280d65;
+}
+img{
+    float: left;
+    padding: 100px;
+    alignment: left;
+}

@@ -1,0 +1,19 @@
+p{
+   font-size: 20px;
+    font-family: Jamrul;
+    alignment: center;
+    color: midnightblue;
+
+}
+body{
+    background-color: thistle;
+}
+h1{
+    font-family: cursive;
+    font-size: 60px;
+    color: darkolivegreen;
+}
+h2{
+    font-family: Inconsolata;
+    color: darkslategray;
+}

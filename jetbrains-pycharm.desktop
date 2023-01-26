@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=PyCharm Professional 2022.2.3
+Icon=/home/emobilis/.local/share/JetBrains/Toolbox/apps/PyCharm-P/ch-0/.icon.svg
+StartupWMClass=jetbrains-pycharm
+Comment=The full-stack Python IDE
+Exec="/home/emobilis/.local/share/JetBrains/Toolbox/apps/PyCharm-P/ch-0/222.4345.23/bin/pycharm.sh" %u
+Version=1.0
+Type=Application
+Categories=Development;IDE;
+Terminal=false
+StartupNotify=true

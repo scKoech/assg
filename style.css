@@ -1,0 +1,27 @@
+a{
+    padding: 20px;
+    border:3px solid lightpink;
+    color: darkcyan;
+    font-size: 40px;
+    font-family: FreeMono;
+    float: left;
+    margin: 50px;
+    background-color: lavender;
+
+}
+h1{
+    color: mediumslateblue;
+    font-size: 60px;
+    font-family: cursive;
+
+}
+body{
+    background-color: #fde1ca;
+}
+img{
+    alignment: center;
+}
+div{
+    float: left;
+    margin: 20px;
+}
